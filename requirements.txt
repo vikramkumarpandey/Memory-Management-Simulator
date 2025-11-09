@@ -1,0 +1,15 @@
+# Memory Management Simulator Requirements
+# Team CodeStorm
+
+# Core dependencies
+psutil>=5.9.0
+
+# GUI (included with Python)
+# tkinter - Standard library
+
+# Optional for enhanced features
+matplotlib>=3.5.0
+numpy>=1.21.0
+
+# Development dependencies (optional)
+pytest>=7.0.0
